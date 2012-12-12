@@ -78,4 +78,9 @@
     <string name="privacyPerms" msgid="1850527049572617">"Ochrana soukromí"</string>
     <string name="devicePerms" msgid="6733560207731294504">"Přístup k zařízení"</string>
     <string name="no_new_perms" msgid="6657813692169565975">"Tato aktualizace nevyžaduje žádná nová oprávnění."</string>
+    <string name="appVersion">Info o verzích</string>
+    <string name="no_perms">Tato aplikace nevyžaduje žádná oprávnění.</string>
+    <string name="currentVersion">Aktuální verze:</string>
+    <string name="newVersion">Nová verze:</string>
+    <string name="not_available">není k dispozici</string>
 </resources>
