@@ -78,4 +78,8 @@
     <string name="privacyPerms" msgid="1850527049572617">"隐私相关权限"</string>
     <string name="devicePerms" msgid="6733560207731294504">"设备相关权限"</string>
     <string name="no_new_perms" msgid="6657813692169565975">"此更新不需要任何新的权限。"</string>
+    <string name="no_perms">此更新不需要任何权限。</string>
+    <string name="currentVersion">当前版本：</string>
+    <string name="newVersion">新版本：</string>
+    <string name="not_available">无</string>
 </resources>
