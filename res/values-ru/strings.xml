@@ -78,4 +78,9 @@
     <string name="privacyPerms" msgid="1850527049572617">"Конфиденциальность"</string>
     <string name="devicePerms" msgid="6733560207731294504">"Доступ к устройству"</string>
     <string name="no_new_perms" msgid="6657813692169565975">"Установка этого обновления не требует специальных разрешений."</string>
+    <string name="appVersion">Информация о версии</string>
+    <string name="no_perms">Этому приложению не требуются специальные разрешения.</string>
+    <string name="currentVersion">Текущая версия:</string>
+    <string name="newVersion">Новая версия:</string>
+    <string name="not_available">недоступно</string>
 </resources>
