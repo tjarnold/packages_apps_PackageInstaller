@@ -78,4 +78,9 @@
     <string name="privacyPerms" msgid="1850527049572617">"Privadesa"</string>
     <string name="devicePerms" msgid="6733560207731294504">"Accés al dispositiu"</string>
     <string name="no_new_perms" msgid="6657813692169565975">"Aquesta actualització no requereix permisos nous."</string>
+    <string name="appVersion">Quant a la versió</string>
+    <string name="no_perms">Aquesta aplicació no necessita permisos.</string>
+    <string name="currentVersion">Versió actual:</string>
+    <string name="newVersion">Versió nova:</string>
+    <string name="not_available">no disponible</string>
 </resources>
